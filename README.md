@@ -1,8 +1,8 @@
 # Fitness Tracker Node and MongoDB App for Berekely Bootcamp
 Keep track of all your cardio and weightlifting!
-## Deployed Link
 
-[Fitness Tracker](https://mysterious-brushlands-78660.herokuapp.com/)
+
+
 
 ## Demo
 
@@ -69,8 +69,3 @@ Route to create a new workout
     });
 ```
 
-
-# Authors
-- Sam Kuttenkuler
-    - [Github](https://www.github.com/skuttenkuler)
-    - [LinkedIn](https://www.linkedin.com/in/skdev91)
